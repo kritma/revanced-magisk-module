@@ -1,12 +1,6 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-apkmirror-arch = "arm-v7a"
 build-mode = "module"
-version = "latest"
-excluded-patches = "always-autorepeat comments copy-video-url premium-heading tablet-mini-player theme vanced-microg-support"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-apkmirror-arch = "arm-v7a"
-build-mode = "module"
+version = "18.32.39"
+excluded-patches = "always-autorepeat comments enable-tablet-layout hide-autoplay-button tablet-mini-player theme vanced-microg-support"
 
